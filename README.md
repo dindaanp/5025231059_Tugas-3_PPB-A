@@ -109,6 +109,7 @@ StatefulWidget adalah widget yang memiliki state yang dapat berubah selama aplik
 
 Contoh di kode:
   - CounterCard
+    
     State pada CounterCard:
     
     ``` int _counter = 0; ```
