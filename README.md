@@ -73,9 +73,17 @@ Properti:
 
 Widget Icon digunakan untuk menampilkan ikon dari Material Icons.
 Contoh di kode:
-  -      ``` Icons.food_bank ```     : Food
-  -      ``` Icons.landscape ```     : Scenery
-  -      ``` Icons.people ```     : People
+  - Food:
+  
+  ``` Icons.food_bank ``` 
+  
+  - Scenery:
+  
+  ``` Icons.landscape ```
+  
+  - People:
+  
+  ``` Icons.people ```
 
 **10. Button**
 
